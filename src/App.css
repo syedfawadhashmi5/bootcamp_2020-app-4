@@ -1,0 +1,14 @@
+.box 
+{
+  height: 500px;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.daylight 
+{
+  height: 500px;
+  background-color: rgb(252, 252, 130));
+  text-align: center;
+}
